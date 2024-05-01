@@ -1,3 +1,5 @@
+#Pintando a parede
+
 largura = float(input("Largura: "))
 altura = float(input("altura: "))
 area = largura * altura
