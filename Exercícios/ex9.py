@@ -1,3 +1,5 @@
+# Aluguel de carros
+
 n1 = float(input("quantos dias alugados? "))
 n2 = float(input("quantos km rodados? ")) 
 dia = 20
